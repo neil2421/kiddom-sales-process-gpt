@@ -46,6 +46,12 @@ DOCS = [
         "category": "rostering,support",
         "priority": "medium",
     },
+    {
+        "id": "1dG2dZdoR6DzQgF9sX18T4CQ_vODsnza8GRK-uTL78MM",
+        "name": "Early Access Process",
+        "category": "early_access,process",
+        "priority": "high",
+    },
 ]
 
 

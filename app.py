@@ -29,6 +29,7 @@ DOC_IDS = [
     "1Ty4Roqr2zbX-MAurFUblu_Bw0QluURlke0hTIC6Btak",  # Sales Cheatsheet for Rostering (copy)
     "14zYzSArxiyp9frKQIHVcOCGtrh_TGsA9HRcKHmfacQs",  # AE<>CSM Handoff Process (copy)
     "1iIrcpoXgAcGCd3qWO9mmsmZV-WoOW9Qm3ozxP2y2PGY",  # Rostering Announcement
+    "1dG2dZdoR6DzQgF9sX18T4CQ_vODsnza8GRK-uTL78MM",  # Early Access Process
 ]
 
 
