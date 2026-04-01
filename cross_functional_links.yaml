@@ -1,0 +1,84 @@
+cross_functional_process_links:
+  ops_bops:
+    label: "BOPs Request Form"
+    purpose: "Use for Ops, RevOps, RFP, Supply Chain, Legal Ops, and related cross-functional requests."
+    link: "BOPs Request Form"
+
+  marketing_requests:
+    label: "Marketing Requests Slack"
+    purpose: "Route all marketing support requests here."
+    link: "#marketing-requests"
+
+  whale_proposals:
+    label: "Whale Proposals Slack"
+    purpose: "Use for $1M+ proposal support. Include Salesforce quote and supporting data."
+    link: "#whale-proposals"
+
+  ncs_assignment_report:
+    label: "NCS Assignment Report"
+    purpose: "Find assigned NCS support."
+    link: "https://kiddom.lightning.force.com/lightning/r/Report/00ORl000009IezqMAC/view"
+
+  ncs_schedule:
+    label: "25-26 Adoption Caravan-Presentation Schedule"
+    purpose: "After submitting NCS request in Salesforce, add it here."
+    link: "25-26 Adoption Caravan-Presentation Schedule"
+
+  ncs_query_board:
+    label: "NCS Query Board"
+    purpose: "Use for NCS questions and follow-up."
+    link: "NCS QUERY BOARD"
+
+  print_fulfillment:
+    label: "Print Fulfillment Slack"
+    purpose: "For sample/order fulfillment follow-up after entering request in SFDC."
+    link: "#print-fulfillment"
+
+  inflight_orders:
+    label: "In Flight Orders"
+    purpose: "Track print/sample order status."
+    link: "In Flight Orders"
+
+  fedex_portal:
+    label: "FedEx Printing Portal"
+    purpose: "Use for printing and event materials."
+    link: "https://www.office.fedex.com/ondemand/kiddom/"
+
+  field_marketing_resources:
+    label: "Field Marketing Resources & Quick Links"
+    purpose: "Reference for conference materials, reviewer sites, Sampaks, and marketing assets."
+    link: "https://kiddom.highspot.com/items/6997cc6f07fa9012ff95740a?lfrm=srp.0"
+
+  rostering_support:
+    label: "Rostering GTM Support Slack"
+    purpose: "Use for complex rostering questions."
+    link: "#team-rostering-gtm-support"
+
+  rostering_site:
+    label: "Kiddom Rostering & Integrations"
+    purpose: "Reference for LMS/SIS integration and rostering guidance."
+    link: "get.kiddom.co"
+
+  pilot_checklist:
+    label: "2026 Pilot Process Checklist"
+    purpose: "Primary checklist for pilot workflow."
+    link: "2026 Pilot Process Checklist *UPDATED* 3/3/26"
+
+  pilot_folder:
+    label: "Pilot Team North Folder"
+    purpose: "Central folder for Team North pilot resources."
+    link: "https://drive.google.com/drive/folders/1q_9JCCX0EbqL28qSfltEF0onBBUgKi92"
+
+  district_pilot_channels:
+    label: "District Pilot Slack Channels"
+    purpose: "Use for district-specific pilot coordination."
+    link: "Pilot District slack channels created"
+
+usage_rules:
+  - "Ops / RevOps / RFP / Legal Ops / Supply Chain requests -> BOPs Request Form"
+  - "Marketing support -> #marketing-requests"
+  - "$1M+ proposal support -> #whale-proposals"
+  - "NCS support -> submit in Salesforce, add to Adoption Caravan schedule, then use NCS Query Board"
+  - "Print/sample support -> enter in SFDC, then use #print-fulfillment, then track in In Flight Orders"
+  - "Rostering issues -> send AE handoff email 2 weeks before access, use #team-rostering-gtm-support for complex cases"
+  - "Pilot work -> follow 2026 Pilot Process Checklist, update weekly health scores in Salesforce, use district pilot Slack channels, include assigned NCS"
