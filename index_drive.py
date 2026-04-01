@@ -52,6 +52,12 @@ DOCS = [
         "category": "early_access,process",
         "priority": "high",
     },
+    {
+        "id": "1HWyJIEy8r8HWSicPRFXoJ70N2TCA-v5P0jc2_yRUUdo",
+        "name": "25-26 Renewals Process",
+        "category": "renewals,process",
+        "priority": "high",
+    },
 ]
 
 

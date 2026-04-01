@@ -30,6 +30,7 @@ DOC_IDS = [
     "14zYzSArxiyp9frKQIHVcOCGtrh_TGsA9HRcKHmfacQs",  # AE<>CSM Handoff Process (copy)
     "1iIrcpoXgAcGCd3qWO9mmsmZV-WoOW9Qm3ozxP2y2PGY",  # Rostering Announcement
     "1dG2dZdoR6DzQgF9sX18T4CQ_vODsnza8GRK-uTL78MM",  # Early Access Process
+    "1HWyJIEy8r8HWSicPRFXoJ70N2TCA-v5P0jc2_yRUUdo",  # 25-26 Renewals Process
 ]
 
 
